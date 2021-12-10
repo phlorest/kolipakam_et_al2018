@@ -9,24 +9,24 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / 'rsos171504supp5.trees',
-                nex,
-                'summary',
-                detranslate=True,
-            )
+        args.writer.add_summary(
+            self.raw_dir.read_tree(
+                'rsos171504supp5.trees', detranslate=True),
+            self.metadata,
+            args.log)
         posterior = self.sample(
             self.remove_burnin(
-                self.read_gzipped_text(self.raw_dir / 'drav_cov_est_ucln_yule_no_burnin.trees.gz'),
-                1000,
-            ),
+                self.raw_dir.read('drav_cov_est_ucln_yule_no_burnin.trees.gz'),
+                1000),
             detranslate=True,
             as_nexus=True)
 
-        with self.nexus_posterior() as nex:
-            for i, tree in enumerate(posterior.trees.trees, start=1):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
+        args.writer.add_posterior(
+            posterior.trees.trees, 
+            self.metadata, 
+            args.log)
 
-        self.add_data(args, self.raw_dir / 'drav.nex')
+        args.writer.add_data(
+            self.raw_dir.read_nexus('drav.nex'),
+            self.characters, 
+            args.log)
