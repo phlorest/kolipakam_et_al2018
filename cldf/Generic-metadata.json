@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/kolipakam_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "32b63a7",
+            "dc:created": "10d1913",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
