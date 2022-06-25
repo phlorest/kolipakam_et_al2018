@@ -8,7 +8,7 @@
     "year": 2018,
     "scaling": "years",
     "analysis": "bayesian",
-    "family": "drav1251",
+    "family": "Dravidian",
     "data": "https://github.com/lexibank/dravlex/",
     "cldf": "https://github.com/lexibank/dravlex/"
 }
