@@ -1,0 +1,15 @@
+{
+    "title": null,
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kolipakam V, Jordan FM, Dunn M, Greenhill SJ, Bouckaert R, Gray RD &amp; Verkerk A. 2018 A Bayesian phylogenetic study of the Dravidian language family. R. Soc. Open Sci. 5: 171504.</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ]
+}
