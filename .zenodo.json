@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Kolipakam et al. 2018 'Dravidian (Kolipakam et al. 2018)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,35 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Kolipakam, Vishnupriya"
+        },
+        {
+            "name": "Jordan, Fiona M."
+        },
+        {
+            "name": "Dunn, Michael"
+        },
+        {
+            "name": "Bouckaert, Remco"
+        },
+        {
+            "name": "Gray, Russell D."
+        },
+        {
+            "name": "Verkerk, Annemarie"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }

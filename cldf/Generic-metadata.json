@@ -25,9 +25,15 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
+            "rdf:about": "https://doi.org/10.5281/zenodo.5121579",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The CLDF dataset from which the data underlying the analysis was derived",
+            "dc:format": "https://cldf.clld.org"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/kolipakam_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "de97c77",
+            "dc:created": "d9c6163",
             "dc:title": "Repository"
         },
         {
