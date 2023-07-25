@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Kolipakam et al. 2018 'Dravidian (Kolipakam et al. 2018)'
+# Phlorest phylogeny derived from Kolipakam et al. 2018 'A Bayesian phylogenetic study of the Dravidian language family'
 
 [![CLDF validation](https://github.com/phlorest/kolipakam_et_al2018/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/kolipakam_et_al2018/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Kolipakam V, Jordan FM, Dunn M, Greenhill SJ, Bouckaert R, Gray RD & Verkerk A. 2018 A Bayesian phylogenetic study of the Dravidian language family. R. Soc. Open Sci. 5: 171504.
+  > Kolipakam V, Jordan FM, Dunn M, Greenhill SJ, Bouckaert R, Gray RD & Verkerk A. 2018. A Bayesian phylogenetic study of the Dravidian language family. R. Soc. Open Sci. 5: 171504.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
