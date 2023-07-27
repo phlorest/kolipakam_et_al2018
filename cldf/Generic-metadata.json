@@ -5,7 +5,7 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Kolipakam V, Jordan FM, Dunn M, Greenhill SJ, Bouckaert R, Gray RD & Verkerk A. 2018 A Bayesian phylogenetic study of the Dravidian language family. R. Soc. Open Sci. 5: 171504.",
+    "dc:bibliographicCitation": "Kolipakam V, Jordan FM, Dunn M, Greenhill SJ, Bouckaert R, Gray RD & Verkerk A. 2018. A Bayesian phylogenetic study of the Dravidian language family. R. Soc. Open Sci. 5: 171504.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
     "dc:identifier": "https://doi.org/10.1098/rsos.171504",
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
@@ -15,7 +15,7 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Kolipakam et al. 2018 'Dravidian (Kolipakam et al. 2018)'",
+    "dc:title": "Phlorest phylogeny derived from Kolipakam et al. 2018 'A Bayesian phylogenetic study of the Dravidian language family'",
     "dcat:accessURL": "https://github.com/phlorest/kolipakam_et_al2018",
     "prov:wasDerivedFrom": [
         {
@@ -33,7 +33,7 @@
         {
             "rdf:about": "https://github.com/phlorest/kolipakam_et_al2018",
             "rdf:type": "prov:Entity",
-            "dc:created": "d9c6163",
+            "dc:created": "8c59e70",
             "dc:title": "Repository"
         },
         {
