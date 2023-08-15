@@ -1,6 +1,7 @@
 # Phlorest phylogeny derived from Kolipakam et al. 2018 'A Bayesian phylogenetic study of the Dravidian language family'
 
 [![CLDF validation](https://github.com/phlorest/kolipakam_et_al2018/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/kolipakam_et_al2018/actions?query=workflow%3ACLDF-validation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8250129.svg)](https://doi.org/10.5281/zenodo.8250129)
 
 ## How to cite
 
