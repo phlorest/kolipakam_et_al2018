@@ -8,4 +8,6 @@ Dunn, Michael                  |  | author | Author
 Bouckaert, Remco               |  | author | Author
 Gray, Russell D.               |  | author | Author
 Verkerk, Annemarie             |  | author | Author
-Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Phlorest
+Simon J. Greenhill             | @SimonGreenhill | author, maintainer | Author, Editor
+Robert Forkel          | @xrotwang |maintainer | Editor
+
