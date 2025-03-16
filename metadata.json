@@ -10,5 +10,6 @@
     "scaling": "years",
     "analysis": "bayesian",
     "family": "Dravidian",
-    "cldf": "https://doi.org/10.5281/zenodo.5121579"
+    "cldf": "https://doi.org/10.5281/zenodo.5121579",
+    "artefacts": ["raw/drav_cov_est_ucln_yule.xml", "http://doi.org/10.5281/zenodo.1181715", "https://doi.org/10.6084/m9.figshare.c.4025020.v3"]
 }
