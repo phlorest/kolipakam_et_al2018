@@ -1,0 +1,329 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.56,
+          29.04
+        ]
+      },
+      "properties": {
+        "Name": "Brahui",
+        "Glottocode": "brah1256",
+        "Glottolog_Name": "Brahui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.6432,
+          24.8124
+        ]
+      },
+      "properties": {
+        "Name": "Malto",
+        "Glottocode": "saur1249",
+        "Glottolog_Name": "Sauria Paharia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4657,
+          24.4644
+        ]
+      },
+      "properties": {
+        "Name": "Kurukh",
+        "Glottocode": "kuru1302",
+        "xd_ids": [
+          "xd668"
+        ],
+        "Glottolog_Name": "Indian Kurux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.7586,
+          18.5968
+        ]
+      },
+      "properties": {
+        "Name": "Ollari_Gadba",
+        "Glottocode": "pott1240",
+        "Glottolog_Name": "Pottangi Ollar Gadaba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4881,
+          19.0534
+        ]
+      },
+      "properties": {
+        "Name": "Parji",
+        "Glottocode": "duru1236",
+        "Glottolog_Name": "Duruwa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4934,
+          20.1022
+        ]
+      },
+      "properties": {
+        "Name": "Kolami",
+        "Glottocode": "nort2699",
+        "Glottolog_Name": "Northwestern Kolami"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7552,
+          18.8832
+        ]
+      },
+      "properties": {
+        "Name": "Kuwi",
+        "Glottocode": "kuvi1243",
+        "Glottolog_Name": "Kuvi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3842,
+          18.1632
+        ]
+      },
+      "properties": {
+        "Name": "Gondi",
+        "Glottocode": "nort2702",
+        "xd_ids": [
+          "xd676"
+        ],
+        "Glottolog_Name": "Northern Gondi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.2096,
+          17.6772
+        ]
+      },
+      "properties": {
+        "Name": "Koya",
+        "Glottocode": "koya1251",
+        "xd_ids": [
+          "xd674"
+        ],
+        "Glottolog_Name": "Koya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7024,
+          16.4529
+        ]
+      },
+      "properties": {
+        "Name": "Telugu",
+        "Glottocode": "telu1262",
+        "xd_ids": [
+          "xd673"
+        ],
+        "Glottolog_Name": "Telugu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.825989,
+          10.520219
+        ]
+      },
+      "properties": {
+        "Name": "Tamil",
+        "Glottocode": "tami1289",
+        "xd_ids": [
+          "xd678"
+        ],
+        "Glottolog_Name": "Tamil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7651,
+          9.59208
+        ]
+      },
+      "properties": {
+        "Name": "Malayalam",
+        "Glottocode": "mala1464",
+        "xd_ids": [
+          "xd682"
+        ],
+        "Glottolog_Name": "Malayalam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1198,
+          13.5878
+        ]
+      },
+      "properties": {
+        "Name": "Kannada",
+        "Glottocode": "nucl1305",
+        "Glottolog_Name": "Kannada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9161,
+          12.2443
+        ]
+      },
+      "properties": {
+        "Name": "Kodava",
+        "Glottocode": "koda1255",
+        "xd_ids": [
+          "xd681"
+        ],
+        "Glottolog_Name": "Kodava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2651,
+          12.8114
+        ]
+      },
+      "properties": {
+        "Name": "Tulu",
+        "Glottocode": "tulu1258",
+        "Glottolog_Name": "Tulu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6265,
+          12.3231
+        ]
+      },
+      "properties": {
+        "Name": "Yeruva",
+        "Glottocode": "ravu1237",
+        "Glottolog_Name": "Ravula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0168,
+          11.4184
+        ]
+      },
+      "properties": {
+        "Name": "Toda",
+        "Glottocode": "toda1252",
+        "xd_ids": [
+          "xd680"
+        ],
+        "Glottolog_Name": "Toda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9387,
+          11.4978
+        ]
+      },
+      "properties": {
+        "Name": "Kota",
+        "Glottocode": "kota1263",
+        "Glottolog_Name": "Kota (India)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5974,
+          11.3094
+        ]
+      },
+      "properties": {
+        "Name": "Badga",
+        "Glottocode": "bada1257",
+        "Glottolog_Name": "Badaga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6064,
+          11.6385
+        ]
+      },
+      "properties": {
+        "Name": "Betta_Kurumba",
+        "Glottocode": "bett1235",
+        "Glottolog_Name": "Betta Kurumba"
+      }
+    }
+  ]
+}
